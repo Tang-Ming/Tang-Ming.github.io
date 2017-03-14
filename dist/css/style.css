@@ -318,7 +318,7 @@ a:hover {
     font-size: 0.8rem; }
     .cd-diancan footer p a {
       float: right;
-      border: 1px solod white;
+      border: 1px solid white;
       color: white;
       font-size: 0.66667rem;
       padding: 0 0.66667rem;
@@ -458,6 +458,7 @@ html {
       .loadin section dl dd {
         font-size: 0.66667rem; }
   .loadin footer {
+    background: white;
     position: fixed;
     bottom: 0; }
     .loadin footer ul {
@@ -537,6 +538,7 @@ html {
           background: white;
           font-size: 0.66667rem; }
   .wd-dingdan footer {
+    background: white;
     position: fixed;
     bottom: 0; }
     .wd-dingdan footer ul {
@@ -715,6 +717,7 @@ html {
           padding: 0.22222rem 0.44444rem;
           border-radius: 5px; }
   .fapiao footer {
+    background: white;
     position: fixed;
     bottom: 0; }
     .fapiao footer ul {
